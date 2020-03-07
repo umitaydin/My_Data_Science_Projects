@@ -1,2 +1,2 @@
 # My_Data_Science_Projects
-This repository holds my data science projects which I completed during the studies which I haave completed up to date
+This repository holds my data science projects which I did during the studies which I have completed up to date
